@@ -8,10 +8,9 @@ Este projeto visa analisar os dados de crimes ocorridos no estado da Bahia em 20
 
 `bahia_crimes.ipynb`: Notebook Jupyter contendo toda a análise de dados, incluindo limpeza, exploração e visualização dos dados de crimes.
 
-`gdf`: Pasta com variados formatos de municípios do estado da Bahia para composição do mapa. 
+`map`: Pasta com variados formatos de municípios do estado da Bahia para composição do mapa. 
 
-## 👩🏼‍💻 Como Usar
-Para executar a análise, você precisará de um ambiente Python com as seguintes bibliotecas instaladas:
+## 👩🏼‍💻 Tecnologias utilizadas
 
 - Numpy
 - Pandas
